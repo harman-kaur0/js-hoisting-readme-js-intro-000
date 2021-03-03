@@ -22,7 +22,7 @@ function sayMyName() {
 function crazy() {
   // fix the code in here:
 
-  function thisIsCrazy(){
+  var thisIsCrazy()= function {
     console.log("hey!!!");
   }
 
