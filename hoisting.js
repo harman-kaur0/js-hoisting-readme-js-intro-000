@@ -18,3 +18,14 @@ function sayMyName() {
     console.log(name);
   }
 }
+
+function crazy() {
+  // fix the code in here:
+  var thisIs = "hey!!!";
+  function thisIsCrazy(){
+    console.log(thisIs);
+  }
+
+  }
+
+
