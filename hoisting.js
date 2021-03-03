@@ -21,9 +21,8 @@ function sayMyName() {
 
 function crazy() {
   // fix the code in here:
-  var thisIsCrazy;
-  function thisIsCrazy(){
+  thisIsCrazy();
+  var thisIsCrazy = function() {
     console.log("hey!!!");
   }
-  crazy() = thisIsCrazy()
 }
