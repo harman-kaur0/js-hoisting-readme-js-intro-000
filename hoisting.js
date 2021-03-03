@@ -11,10 +11,10 @@ function callMe() {
 
 function crazy() {
   // fix the code in here:
-  var thisIsCrazy
+  var thisIsCrazy = "hey!!!"
 
   function thisIsCrazy(){
-    console.log("hey!!!")
+    console.log(thisIsCrazy)
   }
 }
 
