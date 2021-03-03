@@ -9,15 +9,6 @@ function callMe() {
 }
 
 
-function crazy() {
-  // fix the code in here:
-  var thisIs = "hey!!!"
-  function thisIsCrazy(){
-    console.log(thisIs)
-  }
-
-  }
-}
 
 function sayMyName() {
   // fix the code in here:
@@ -28,5 +19,16 @@ function sayMyName() {
   function sayMy() {
     var name = "Kristin";
     console.log(name);
+  }
+}
+
+
+function crazy() {
+  // fix the code in here:
+  var thisIs = "hey!!!"
+  function thisIsCrazy(){
+    console.log(thisIs)
+  }
+
   }
 }
